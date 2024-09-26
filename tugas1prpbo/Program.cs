@@ -76,6 +76,12 @@ public class Singa : Mamalia
     {
         return $"{Nama} sedang mengaum dengan keras rawr";
     }
+
+    //method mengaum
+    public void Mengaum()
+    {
+        Console.WriteLine($"{Nama} sedang mengaum dengan sangat keras rawr");
+    }
 }
 
 //subclass: gajah
@@ -100,6 +106,12 @@ public class Ular : Reptil
     public override string AksiKhusus()
     {
         return $"{Nama} sedang merayap meliuk liuk di tanah";
+    }
+
+    //method merayap
+    public void Merayap()
+    {
+        Console.WriteLine($"{Nama} sedang merayap meliuk liuk di tanah");
     }
 }
 
@@ -164,6 +176,11 @@ public class Program
 
         //tampilkan daftar hewan di kebun binatang
         kebunBinatang.DaftarHewan();
+
+        //memanggil method mengaum dan merayap
+        Console.WriteLine("\nAksi Khusus: ");
+        singa.Mengaum();
+        ular.Merayap();
     }
 
 }
