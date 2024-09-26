@@ -1,0 +1,7 @@
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\bin\Debug\tugas1prpbo.exe.config
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\bin\Debug\tugas1prpbo.exe
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\bin\Debug\tugas1prpbo.pdb
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\obj\Debug\tugas1prpbo.csproj.AssemblyReference.cache
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\obj\Debug\tugas1prpbo.csproj.CoreCompileInputs.cache
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\obj\Debug\tugas1prpbo.exe
+D:\SMT 3\PBO\tugas1prpbo\tugas1prpbo\obj\Debug\tugas1prpbo.pdb
